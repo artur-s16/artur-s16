@@ -3,8 +3,11 @@
 Meu nome é Artur Silveira da Silva 
 
 -Estou estudando na Escola Estadual Professor Alberto Conte;
+
 -Estou cursando Redes e Computadores ( 2° Semestre ) na Organização de Educação CEAP- CENTRO EDUCACIONAL ASSISTENCIAL PROFISSIONALIZANTE;
+
 -Estou me desenvolvendo na Linguagem de Phyton, com características como Php, Html, CSS;
+
 -Estou adquerindo conhecimento no [Alura] (https://www.alura.com.br)
 
 ### Você pode entrar em contato comigo 📫
